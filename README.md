@@ -1,6 +1,6 @@
-Passo 1 – Acessar sua VPS via SSH e rodar o seguinte comando
+# Passo 1 – Acessar sua VPS via SSH e rodar o seguinte comando
 apt update && apt upgrade
-Passo 2 – Após a atualização e upgrade da VPS vamos instalar o aaPanel. Para isso
+# Passo 2 – Após a atualização e upgrade da VPS vamos instalar o aaPanel. Para isso
 copie e cole o comando abaixo no terminal
 wget -O install.sh http://www.aapanel.com/script/install-ubuntu_6.0_en.sh && sudo
 bash install.sh aapanel
